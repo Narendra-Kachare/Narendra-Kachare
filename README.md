@@ -19,7 +19,6 @@
 
 - 📍 Pune, Maharashtra
 
-<!-- 
 ###
 
 <h2 align="left">I code with</h2>
@@ -47,12 +46,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+ <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg height="40" alt="amazonwebservices logo"  /> -->
 </div>
 a normal html comment
 
 ###
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayurrohokale25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayurrohokale25" height="30" width="40" /></a>
