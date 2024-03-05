@@ -19,6 +19,7 @@ v<h1 align="left">Hi 👋, I'm Narendra Kachare</h1>
 
 - 📍 Pune, Maharashtra
 
+<!-- 
 ###
 
 <h2 align="left">I code with</h2>
@@ -76,6 +77,6 @@ a normal html comment
 </div>
 
 ###
-
+-->
 
 
