@@ -1,4 +1,4 @@
-v<h1 align="left">Hi 👋, I'm Narendra Kachare</h1>
+<h1 align="left">Hi 👋, I'm Narendra Kachare</h1>
 
 ###
 
