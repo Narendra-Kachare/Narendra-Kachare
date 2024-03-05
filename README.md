@@ -48,15 +48,14 @@ v<h1 align="left">Hi 👋, I'm Narendra Kachare</h1>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-<!-- a normal html comment
+a normal html comment
 
 ###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayurrohokale25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayurrohokale25" height="30" width="40" /></a>
-<a href="https://instagram.com/mayur_rohokale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayur_rohokale" height="30" width="40" /></a>
+<a href="https://instagram.com/NarendraKachare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narendra_kachare" height="30" width="40" /></a>
 </p>
 
 ###
@@ -79,4 +78,4 @@ v<h1 align="left">Hi 👋, I'm Narendra Kachare</h1>
 ###
 
 
--->
+
